@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+I recently graduated with a Master's in Computer Science and I'm actively looking for new roles where I can make an impact.
+With hands-on experience in end-to-end project implementation at Genpact, delivering enterprise solutions for global clients like Becton Dickinson, I bring a strong mix of technical depth and real-world business exposure.
+Throughout my academic and professional journey, I have worked on multiple projects spanning deep learning, medical image analysis, data classification, and web application development. These projects have sharpened my skills in data preprocessing, model evaluation, visualization, and building end-to-end data pipelines.
+I'm eager to bring my analytical mindset, machine learning background, and consulting experience to a data-driven team.
 <!--
 **harman7707/harman7707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
